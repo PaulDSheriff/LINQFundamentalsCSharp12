@@ -1,0 +1,16 @@
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\bin\Debug\net8.0\LINQSamples.Common.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\bin\Debug\net8.0\LINQSamples.Common.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\bin\Debug\net8.0\LINQSamples.Common.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\bin\Debug\net8.0\LINQSamples.DataLayer.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\bin\Debug\net8.0\LINQSamples.DataLayer.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.sourcelink.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\obj\Debug\net8.0\LINQSamp.74841043.Up2Date
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\obj\Debug\net8.0\refint\LINQSamples.Common.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.Common\obj\Debug\net8.0\ref\LINQSamples.Common.dll

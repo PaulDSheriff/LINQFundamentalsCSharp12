@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\LINQ\\LINQFundamentalsCSharp12\\linq-fundamentals-csharp-12\\04-OrderBy\\Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B36191D-296A-48FC-8EEB-04ED5A740175}|LINQSamples.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\linq\\linqfundamentalscsharp12\\linq-fundamentals-csharp-12\\04-orderby\\start\\samplesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B36191D-296A-48FC-8EEB-04ED5A740175}|LINQSamples.csproj|solutionrelative:samplesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B36191D-296A-48FC-8EEB-04ED5A740175}|LINQSamples.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\linq\\linqfundamentalscsharp12\\linq-fundamentals-csharp-12\\04-orderby\\start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B36191D-296A-48FC-8EEB-04ED5A740175}|LINQSamples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53315A59-FEE2-45CD-BBBA-7E6065557112}|..\\..\\LINQSamples.Common\\LINQSamples.Common.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\linq\\linqfundamentalscsharp12\\linq-fundamentals-csharp-12\\linqsamples.common\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\LINQ\\LINQFundamentalsCSharp12\\linq-fundamentals-csharp-12\\LINQSamples.Common\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "..\\..\\LINQSamples.Common\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\LINQ\\LINQFundamentalsCSharp12\\linq-fundamentals-csharp-12\\LINQSamples.Common\\ViewModelBase.cs",
+              "RelativeToolTip": "..\\..\\LINQSamples.Common\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:38:43.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\LINQ\\LINQFundamentalsCSharp12\\linq-fundamentals-csharp-12\\04-OrderBy\\Start\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\LINQ\\LINQFundamentalsCSharp12\\linq-fundamentals-csharp-12\\04-OrderBy\\Start\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:35:34.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SamplesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\LINQ\\LINQFundamentalsCSharp12\\linq-fundamentals-csharp-12\\04-OrderBy\\Start\\SamplesViewModel.cs",
+              "RelativeDocumentMoniker": "SamplesViewModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\LINQ\\LINQFundamentalsCSharp12\\linq-fundamentals-csharp-12\\04-OrderBy\\Start\\SamplesViewModel.cs*",
+              "RelativeToolTip": "SamplesViewModel.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAowHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:32:40.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

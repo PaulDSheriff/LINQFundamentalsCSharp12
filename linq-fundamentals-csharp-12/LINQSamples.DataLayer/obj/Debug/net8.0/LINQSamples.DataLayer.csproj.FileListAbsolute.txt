@@ -1,0 +1,12 @@
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\bin\Debug\net8.0\LINQSamples.DataLayer.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\bin\Debug\net8.0\LINQSamples.DataLayer.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\bin\Debug\net8.0\LINQSamples.DataLayer.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.sourcelink.json
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\refint\LINQSamples.DataLayer.dll
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Ariqt\Interns-BE\Ankit\LINQ\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\ref\LINQSamples.DataLayer.dll
