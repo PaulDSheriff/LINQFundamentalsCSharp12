@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\LINQSamples.Common\LINQSamples.Common.csproj" />
+    <ProjectReference Include="..\..\LINQSamples.DataLayer\LINQSamples.DataLayer.csproj" />
+  </ItemGroup>
+
+</Project>

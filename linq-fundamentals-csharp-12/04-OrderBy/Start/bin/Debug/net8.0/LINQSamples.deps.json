@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQSamples/1.0.0": {
+        "dependencies": {
+          "LINQSamples.Common": "1.0.0",
+          "LINQSamples.DataLayer": "1.0.0"
+        },
+        "runtime": {
+          "LINQSamples.dll": {}
+        }
+      },
+      "LINQSamples.Common/1.0.0": {
+        "dependencies": {
+          "LINQSamples.DataLayer": "1.0.0"
+        },
+        "runtime": {
+          "LINQSamples.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LINQSamples.DataLayer/1.0.0": {
+        "runtime": {
+          "LINQSamples.DataLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQSamples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQSamples.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQSamples.DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
